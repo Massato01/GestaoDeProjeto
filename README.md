@@ -36,6 +36,7 @@
 Amarelo - 
 
 * Objetivo: aplicativo que irá melhora o processo de sinistro e blablabla
+  
 Roxo - O que será feito
 * Produto: qual produto iremos entregar, qual serviço... (ex: aplicativo; não é a mesma coisa que o objetivo)
 * Requisitos: requisitos funcionais do projeto
