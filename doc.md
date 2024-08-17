@@ -11,11 +11,9 @@ Assim, este projeto propõe uma nova metodologia de monitoramento e análise de 
 ## Partes interessadas
 
 ### Equipe
-
-- Gabriel Nunes
-- Vinicius Alves
+- Vinicius Alves (Gerente)
 - Carlos Massato
-- Matheus Arcanjo
+- Gabriel Nunes
 
 ### Cliente
 
