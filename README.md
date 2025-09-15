@@ -1,3 +1,7 @@
+O trabalho aqui proposto trata-se de um Software intitulado "Medical Security".
+![MedicalSecurity_Banner_V1 0](https://github.com/user-attachments/assets/6f0a9cc0-b932-49f6-ba58-b466accf69fb)
+
+
 # Descrição
 
 - listar atividades (Priorizar)
